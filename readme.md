@@ -1,4 +1,5 @@
-## >Dans la longue histoire de l'humanité (et du genre animal aussi), ceux qui ont appris à collaborer et à improviser le plus efficacement ont prévalu.< *Charles Darwin*
+> Dans la longue histoire de l'humanité (et du genre animal aussi), ceux qui ont appris à collaborer et à improviser le plus efficacement ont prévalu.
+> *Charles Darwin*
 
 # Qu'est ce que c'est ?
 
