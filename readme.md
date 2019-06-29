@@ -1,7 +1,7 @@
+# Qu'est ce que Naventure ?
+
 > Dans la longue histoire de l'humanité (et du genre animal aussi), ceux qui ont appris à collaborer et à improviser le plus efficacement ont prévalu.
 > *Charles Darwin*
-
-# Qu'est ce que Naventure ?
 
 Par le passé, souvent dans le cadre de l'école, ou par intérêt personnel, tes parents réalisaient des herbiers et des collections d'insectes.
 Pour cela, ils devaient arracher les plantes et les classer dans de gros albums, ou tuer les insectes en les piquant sur des aiguilles dans de grandes boîtes vitrées.
