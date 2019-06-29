@@ -7,7 +7,7 @@ Tu peux voir ce genre de collections si tu vas dans un museum d'histoire naturel
 ![Détail d'une collection d'insectes montés sur épingle](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_100506-N-7498L-152_Sailors_assigned_to_the_entomology_division_of_Navy_Environmental_and_Preventive_Medicine_%28NEPMU%29_6_at_Joint_Base_Pearl_Harbor-Hickam_collect_various_insects_for_study.jpg/2560px-thumbnail.jpg)
 *Détail d'une collection d'insectes montés sur épingle*
 
-C'était très joli mais un peu cruel, et de nos jours il faut préserver la faune et la flore plutôt que de l'enfermer dans des boîtes !
+C'était très joli mais un peu cruel, et de nos jours il faut préserver la faune et la flore plutôt que de l'enfermer dans des boîtes ! Les plantes et les insectes sont des êtres vivants comme toi, il est inutile de les sacrifier pour apprendre à les connaître et les classifier.
 
 Naventure est un objet connecté qui va te permettre de collectionner les plantes, les fleurs et les insectes, sans leur faire de mal.
 En te donnant une connaissance des êtres vivants qui se trouvent autour de toi, dans ton jardin, dans la rue, dans le parc voisin, il va te permettre de partager tes découvertes avec toute la communauté Naventure !
@@ -16,6 +16,6 @@ Objet de connaissance, il te donnera le nom de ces plantes ou de ces insectes au
 Leur rareté, leur nom scientifique, la façon dont ils vivent, toutes ces informations seront disponibles sur des fiches qui viendront constituer ta collection virtuelle.
 
 
-##Références :
+## Références :
 https://cloud.google.com/vision/docs/detecting-labels
 https://learn.adafruit.com/raspberry-pi-wearable-time-lapse-camera/
