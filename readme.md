@@ -5,7 +5,9 @@ Pour cela, ils devaient arracher les plantes et les classer dans de gros albums,
 Tu peux voir ce genre de collections si tu vas dans un museum d'histoire naturelle.
 
 ![Détail d'une collection d'insectes montés sur épingle](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_100506-N-7498L-152_Sailors_assigned_to_the_entomology_division_of_Navy_Environmental_and_Preventive_Medicine_%28NEPMU%29_6_at_Joint_Base_Pearl_Harbor-Hickam_collect_various_insects_for_study.jpg/2560px-thumbnail.jpg)
+*Détail d'une collection d'insectes montés sur épingle*
 
+C'était très joli mais un peu cruel, et de nos jours il faut préserver la faune et la flore plutôt que de l'enfermer dans des boîtes !
 
 Naventure est un objet connecté qui va te permettre de collectionner les plantes, les fleurs et les insectes, sans leur faire de mal.
 En te donnant une connaissance des êtres vivants qui se trouvent autour de toi, dans ton jardin, dans la rue, dans le parc voisin, il va te permettre de partager tes découvertes avec toute la communauté Naventure !
