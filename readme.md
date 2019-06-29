@@ -24,6 +24,11 @@ Pour apprendre à utiliser ton Naventure, vas dans le [wiki](https://github.com/
 C'est très simple, mais si tu ne comprends pas, demandes à tes parents de t'aider.
 
 ## Références :
+Réseau via USB sur Raspberry pi zero w :
+https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a
+
+Utilisation de l'API Google Vision :
 https://cloud.google.com/vision/docs/detecting-labels
 
+Modélisation de l'objet dans Fusion 360:
 https://learn.adafruit.com/raspberry-pi-wearable-time-lapse-camera/
