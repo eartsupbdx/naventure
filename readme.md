@@ -5,7 +5,7 @@ Pour cela, ils devaient arracher les plantes et les classer dans de gros albums,
 Tu peux voir ce genre de collections si tu vas dans un museum d'histoire naturelle.
 
 ![Détail d'une collection d'insectes montés sur épingle](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_100506-N-7498L-152_Sailors_assigned_to_the_entomology_division_of_Navy_Environmental_and_Preventive_Medicine_%28NEPMU%29_6_at_Joint_Base_Pearl_Harbor-Hickam_collect_various_insects_for_study.jpg/2560px-thumbnail.jpg)
-*Détail d'une collection d'insectes montés sur épingle*
+*Détail d'une collection d'insectes montés sur épingle. Crédits U.S. Navy photo by Mass Communication Specialist 2nd Class Mark Logico*
 
 C'était très joli mais un peu cruel, et de nos jours il faut préserver la faune et la flore plutôt que de l'enfermer dans des boîtes ! Les plantes et les insectes sont des êtres vivants comme toi, il est inutile de les sacrifier pour apprendre à les connaître et les classifier.
 
