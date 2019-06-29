@@ -18,6 +18,10 @@ En apprenant à connaître les êtres vivants qui se trouvent autour de toi, dan
 Objet de connaissance, il te donnera le nom de ces plantes ou de ces insectes au moment où tu vas les scanner, et de retour chez toi, en te connectant au site web https://naventure.site, tu vas pouvoir en apprendre plus :
 Leur rareté, leur nom scientifique, la façon dont ils vivent, toutes ces informations seront disponibles sur des fiches qui viendront constituer ta collection virtuelle.
 
+# Comment ca marche ?
+
+Pour apprendre à utiliser ton Naventure, vas dans le [wiki](https://github.com/eartsupbdx/naventure/wiki/Mise-en-route).
+C'est très simple, mais si tu ne comprends pas, demandes à tes parents de t'aider.
 
 ## Références :
 https://cloud.google.com/vision/docs/detecting-labels
