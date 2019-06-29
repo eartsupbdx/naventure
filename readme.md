@@ -18,4 +18,5 @@ Leur rareté, leur nom scientifique, la façon dont ils vivent, toutes ces infor
 
 ## Références :
 https://cloud.google.com/vision/docs/detecting-labels
+
 https://learn.adafruit.com/raspberry-pi-wearable-time-lapse-camera/
