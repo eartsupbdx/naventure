@@ -10,7 +10,7 @@ Tu peux voir ce genre de collections si tu vas dans un museum d'histoire naturel
 C'était très joli mais un peu cruel, et de nos jours il faut préserver la faune et la flore plutôt que de l'enfermer dans des boîtes ! Les plantes et les insectes sont des êtres vivants comme toi, il est inutile de les sacrifier pour apprendre à les connaître et les classifier.
 
 Naventure est un objet connecté qui va te permettre de collectionner les plantes, les fleurs et les insectes, sans leur faire de mal.
-En te donnant une connaissance des êtres vivants qui se trouvent autour de toi, dans ton jardin, dans la rue, dans le parc voisin, il va te permettre de partager tes découvertes avec toute la communauté Naventure !
+En apprenant à connaître les êtres vivants qui se trouvent autour de toi, dans ton jardin, dans la rue, dans le parc voisin, tu vas pouvoir partager tes découvertes avec toute la communauté Naventure !
 
 Objet de connaissance, il te donnera le nom de ces plantes ou de ces insectes au moment où tu vas les scanner, et de retour chez toi, en te connectant au site web https://naventure.site, tu vas pouvoir en apprendre plus :
 Leur rareté, leur nom scientifique, la façon dont ils vivent, toutes ces informations seront disponibles sur des fiches qui viendront constituer ta collection virtuelle.
