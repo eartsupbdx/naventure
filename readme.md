@@ -1,3 +1,5 @@
+## >Dans la longue histoire de l'humanité (et du genre animal aussi), ceux qui ont appris à collaborer et à improviser le plus efficacement ont prévalu.< *Charles Darwin*
+
 # Qu'est ce que c'est ?
 
 Par le passé, souvent dans le cadre de l'école, ou par intérêt personnel, tes parents réalisaient des herbiers et des collections d'insectes.
