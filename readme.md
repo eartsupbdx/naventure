@@ -25,14 +25,18 @@ C'est très simple, mais si tu ne comprends pas, demandes à tes parents de t'ai
 
 ## Références :
 Réseau via USB sur Raspberry pi zero w :
+
 https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a
 
 Utilisation de l'API Google Vision :
+
 https://cloud.google.com/vision/docs/detecting-labels
 
 Execution du javascript en tâche de fond :
+
 https://www.npmjs.com/package/pm2
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9
 
 Modélisation de l'objet dans Fusion 360:
+
 https://learn.adafruit.com/raspberry-pi-wearable-time-lapse-camera/
