@@ -23,6 +23,10 @@ Leur rareté, leur nom scientifique, la façon dont ils vivent, toutes ces infor
 Pour apprendre à utiliser ton Naventure, vas dans le [wiki](https://github.com/eartsupbdx/naventure/wiki/Mise-en-route).
 C'est très simple, mais si tu ne comprends pas, demandes à tes parents de t'aider.
 
+## Remerciements:
+Merci à L@Bx hackerspace pour le PCB !
+https://www.labx.fr/
+
 ## Références :
 Réseau via USB sur Raspberry pi zero w :
 https://gist.github.com/gbaman/975e2db164b3ca2b51ae11e45e8fd40a
