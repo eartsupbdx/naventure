@@ -20,7 +20,7 @@ Leur rareté, leur nom scientifique, la façon dont ils vivent, toutes ces infor
 
 # Comment ca marche ?
 
-Pour apprendre à utiliser ton Naventure, vas dans le [wiki](https://github.com/eartsupbdx/naventure/wiki/Mise-en-route).
+Pour apprendre à utiliser ton Naventure, vas dans le [wiki](https://github.com/eartsupbdx/naventure/wiki/1---Mise-en-route).
 C'est très simple, mais si tu ne comprends pas, demandes à tes parents de t'aider.
 
 ## Remerciements:
