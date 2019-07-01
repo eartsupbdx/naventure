@@ -1,4 +1,4 @@
-<img src="https://github.com/eartsupbdx/naventure/blob/master/logo.jpg" width="400/>
+<img src="https://github.com/eartsupbdx/naventure/blob/master/logo.jpg" data-canonical-src="https://github.com/eartsupbdx/naventure/blob/master/logo.jpg" width="400" height="234" />
 
 # Qu'est ce que Naventure ?
 
