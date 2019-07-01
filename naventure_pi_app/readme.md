@@ -7,3 +7,7 @@ Exemple :
 Google vision API répond par un grand tableau, trié par probabilité, que nous nettoyons, pour renvoyer un JSON à l'application node sous cette forme :
 
 ["Insect","Invertebrate","Cricket-like insect","Locust","Cricket","Arthropod","Pest","Grasshopper","Organism","Chapulines"]
+
+### TODO
+Les résultats retournés par Google Vision API étant en anglais, il faudra utiliser Google translation API pour les traduire :
+https://cloud.google.com/translate/docs/
