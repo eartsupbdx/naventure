@@ -37,6 +37,3 @@ https://cloud.google.com/vision/docs/detecting-labels
 Execution du javascript en tâche de fond :
 https://www.npmjs.com/package/pm2
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9
-
-Modélisation de l'objet dans Fusion 360:
-https://learn.adafruit.com/raspberry-pi-wearable-time-lapse-camera/
