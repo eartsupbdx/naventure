@@ -40,5 +40,6 @@ Execution du javascript en tâche de fond :
 https://www.npmjs.com/package/pm2
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9
 
-Librairie pour l'écran Inky pHAT:
+Librairie et documentation pour l'écran Inky pHAT:
 https://www.npmjs.com/package/inkyphat
+http://docs.pimoroni.com/inkyphat/
