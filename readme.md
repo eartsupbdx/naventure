@@ -1,3 +1,5 @@
+![](https://github.com/eartsupbdx/naventure/blob/master/logo.jpg)
+
 # Qu'est ce que Naventure ?
 
 > Dans la longue histoire de l'humanité (et du genre animal aussi), ceux qui ont appris à collaborer et à improviser le plus efficacement ont prévalu.
