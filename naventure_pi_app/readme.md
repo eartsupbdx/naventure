@@ -1,4 +1,4 @@
-Le programme fait avec nodejs envoie les images faites par la caméra en base64 via POST à php, qui soumet l'image à Google vision API
+L'application nodejs envoie les images faites par la caméra en base64 via POST à php, qui soumet l'image à Google vision API
 
 Exemple :
 
