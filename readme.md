@@ -1,4 +1,4 @@
-![](https://github.com/eartsupbdx/naventure/blob/master/logo.jpg)
+![](https://github.com/eartsupbdx/naventure/blob/master/logo.jpg | width=400)
 
 # Qu'est ce que Naventure ?
 
