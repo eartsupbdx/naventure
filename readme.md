@@ -26,8 +26,8 @@ Pour apprendre à utiliser ton Naventure, vas dans le [wiki](https://github.com/
 C'est très simple, mais si tu ne comprends pas, demandes à tes parents de t'aider.
 
 ## Remerciements:
-Merci à L@Bx hackerspace pour le PCB !
-https://www.labx.fr/
+Merci à L@Bx hackerspace pour le PCB : https://www.labx.fr/
+Merci à Gilbert ROULOT pour son aide dans la compréhension du processus d'authentification sur Google Cloud.
 
 ## Références :
 Réseau via USB sur Raspberry pi zero w :
